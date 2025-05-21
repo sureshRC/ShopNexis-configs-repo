@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to ShopNexis User related APIs "
+  contactDetails:
+    name: "Suresh Kukkala - Developer"
+    email: "sureshkukkala4455@gmail.com"
+  onCallSupport:
+    - +91 9666979038
